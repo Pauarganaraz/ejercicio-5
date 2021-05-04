@@ -1,0 +1,12 @@
+Algoritmo obtenerVelocidadRelevante
+	Definir CONVERSOR_BIT_BYTE Como Entero;
+	Definir velContratada como real;
+	CONVERSOR_BIT_BYTE = 8
+	velContratada = 0
+	escribir "ingrese velocidad contratada en megas"
+	Leer velContratada;
+	escribir " el usuario compr� un paquete de" velContratada  "megas y la velocidad en realidad es "  CONVERSOR_BIT_BYTE;
+	
+	
+	
+FinAlgoritmo
